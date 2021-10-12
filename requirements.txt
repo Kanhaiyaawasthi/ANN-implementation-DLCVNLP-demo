@@ -5,4 +5,5 @@ pandas
 seaborn
 
 ## local package installation
--e .
+-e . ### <<< To install local packages defined in setup.py
+
