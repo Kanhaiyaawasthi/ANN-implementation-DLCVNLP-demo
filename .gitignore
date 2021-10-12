@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 envs/
-.vscode/
+.vscodze/
 .idea/
